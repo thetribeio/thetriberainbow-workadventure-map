@@ -24,7 +24,7 @@
     "fix": "node_modules/.bin/eslint --fix src/ . --ext .ts"
   },
   "dependencies": {
-    "@workadventure/scripting-api-extra": "^1.2.0",
+    "@workadventure/scripting-api-extra": "^1.4.6",
     "nes.css": "^2.3.0"
   }
 }
